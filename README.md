@@ -1,6 +1,7 @@
 # Cricket-match
-A Class based program executed in Python. Output is printed on a random basis. 
-*The teams are already declared in the program.
+A Class based program executed in Python. Output is printed on a random basis.
+
+The teams are already declared in the program.
 
 ## Inputs
 1. Weather
